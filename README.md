@@ -1,0 +1,4 @@
+snapshots
+=========
+
+Maven repository - snapshots
